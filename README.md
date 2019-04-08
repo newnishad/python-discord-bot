@@ -7,3 +7,6 @@ Make sure you have python 3.x installed in your computer to run this program.
 # Dependencies
 
 - [Discord.py](https://github.com/Rapptz/discord.py) ```pip install discord.py```
+
+# Official Discord.py Documentation
+[Dicord.py Documentation](https://discordpy.readthedocs.io/en/latest/)
