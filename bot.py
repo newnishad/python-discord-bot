@@ -6,7 +6,7 @@ import pymysql
 from discord.ext import commands
 from discord.utils import get
 
-TOKEN = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX' #Your Token
+TOKEN = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX' #Your Bot Token
 
 
 game_guess = []
