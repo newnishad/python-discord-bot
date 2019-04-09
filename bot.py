@@ -2,7 +2,6 @@ import discord
 import random
 import time
 import urllib.request
-import pymysql
 from discord.ext import commands
 from discord.utils import get
 
