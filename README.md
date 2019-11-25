@@ -7,6 +7,9 @@ Make sure you have python 3.x installed in your computer to run this program.
 ## Dependencies
 
 - [Discord.py](https://github.com/Rapptz/discord.py) 
+- dnspython==1.16.0
+- PyNaCl==1.3.0
+- async-timeout==3.0.1
 ### Installation Guide
 Open your terminal/cmd or windows powershell then run this command
 ```pip install discord.py```
